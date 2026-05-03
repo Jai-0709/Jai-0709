@@ -61,16 +61,3 @@ Email Me 👉 ✉️ **mjaisurya10@gmail.com** For Collaboration/Project or Anyt
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### ⬇️ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jai-0709&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-<p align="center">
-&nbsp; <img src="assets/space-shooter.gif" alt="Space Shooter Game" />
-</p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
