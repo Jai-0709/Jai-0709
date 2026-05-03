@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **mjaisurya10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I'm currently working on:** Building scalable backend systems, improving Cloudster, and developing real-world AI/ML applications
+- 🔭 **I'm currently working on:** Building scalable backend systems, improving Cloud Technolgy Knowledge, and developing real-world AI/ML applications
 - 🌱 **I'm currently learning:** Advanced system design, cloud architecture, Kubernetes, and scalable distributed systems
 - 👯 **I'm looking to collaborate on:** Open-source projects, AI/ML systems, full-stack applications, and cloud-based solutions
 - 🤔 **I'm looking for help with:** Optimizing large-scale systems and advanced cloud deployments
