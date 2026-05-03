@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Jaisurya M
+# Hi 👋, I'm Jaisurya M
 **Software Developer | Cloud & AI Enthusiast | Building Scalable Systems**
 
 Email Me 👉 ✉️ **mjaisurya10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -54,11 +54,22 @@ Email Me 👉 ✉️ **mjaisurya10@gmail.com** For Collaboration/Project or Anyt
 
 ---
 
+## 📈 Contribution Graph
+[![Jaisurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jai-0709&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jai-0709&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ⬇️ Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jai-0709&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+<p align="center">
+&nbsp; <img src="assets/space-shooter.gif" alt="Space Shooter Game" />
+</p>
 
 ---
 
